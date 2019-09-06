@@ -60,5 +60,3 @@ output_folder should have a "/" at the end for successful file creation
 ### Example data from
 Rakhlin, A., Shvets, A., Iglovikov, V., Kalinin, A.: Deep Convolutional Neural Networks for Breast Cancer Histology Image Analysis. arXiv:1802.00752 [cs.CV]
 
-## Some example visualization
-![Image description](https://www.dropbox.com/s/94pola5jke8efyg/Cluster_Histograms_Kmeans.pdf?dl=0)
